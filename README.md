@@ -2,7 +2,7 @@
 
 I am an Undergrad studemt working currently in multiple domains. 
 
-Robotics, AI, IoT, AR and VR are some I have been working on and it gives me the freedom to be creative and have fun while learning a lot at the same time. I love meeting new people across a diverse range of fields and strongly believe in working coherently as a team to find interdisciplinary and unconventional solutions to problems existing.
+Robotics, AI, IoT, AR and VR are some areas, I have been working on and it gives me the freedom to be creative and have fun while learning a lot at the same time. I love meeting new people across a diverse range of fields and strongly believe in working coherently as a team to find interdisciplinary and unconventional solutions to problems existing.
 
 ### Find me around the web 🌎:
 
