@@ -8,12 +8,14 @@ Robotics, AI, IoT, AR and VR are some areas, I have been working on and it gives
 
 <p align="center">
 
-<a href="https://twitter.com/prawinsankar_ta"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flar-square&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/prawinsankar_ta"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/prawin-sankar-ta/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:prawinta.sankar@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
 <!--
 **prawin-sankarta/prawin-sankarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://twitter.com/prawinsankar_ta"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flar-square&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 Here are some ideas to get you started:
 
