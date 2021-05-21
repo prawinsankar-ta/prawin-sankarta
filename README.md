@@ -1,4 +1,4 @@
-### Hi, I'm Prawin Sankar👋
+# Hi, I'm Prawin Sankar👋
 
 I am an Undergrad studemt working currently in multiple domains. 
 
